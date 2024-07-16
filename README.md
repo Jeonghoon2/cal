@@ -20,7 +20,7 @@
 
 - 곱하기
 
-<img width="516" alt="image" src="https://github.com/user-attachments/assets/8d4c3b41-5f76-4da9-8c9c-71860be53c40">
+![image](https://github.com/user-attachments/assets/152e4a6e-d2a5-4946-8e8f-51a90b42eef3)
 
 ### Version
 

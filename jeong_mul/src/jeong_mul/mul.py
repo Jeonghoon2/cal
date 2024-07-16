@@ -1,3 +1,2 @@
-def mul():
-	print(12*12)
-	return 12*12
+def mul(a,b):
+	print(a," * ",b,",a*b)

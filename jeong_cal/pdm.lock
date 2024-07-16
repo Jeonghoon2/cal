@@ -5,37 +5,37 @@
 groups = ["default"]
 strategy = ["cross_platform", "inherit_metadata"]
 lock_version = "4.4.2"
-content_hash = "sha256:a0abfe01cdb8eee4d0f6e8fd2548cce4282a83ec721c89d63de9ee1230b278bc"
+content_hash = "sha256:028050b761d44a83b0e8022c04d1160601b4221d9132604a2dfb7532e80c5238"
 
 [[package]]
 name = "haram-sub"
-version = "0.1.2"
+version = "0.1.3"
 requires_python = ">=3.9"
 summary = "Default template for PDM package"
 groups = ["default"]
 files = [
-    {file = "haram_sub-0.1.2-py3-none-any.whl", hash = "sha256:53152e3e14dc3090ca9403c5a685ea65c7ed474c2debbab0573b43e8b0b4d32f"},
-    {file = "haram_sub-0.1.2.tar.gz", hash = "sha256:074a2432667b8e6645c6c5f861e209a5658ab1d9595170e7a5b6fc609e9a8d4e"},
+    {file = "haram_sub-0.1.3-py3-none-any.whl", hash = "sha256:0f3349fe1f3e259f3e7a31628eeb089f22d565677d8ef5a210746a0411531fa9"},
+    {file = "haram_sub-0.1.3.tar.gz", hash = "sha256:d0f854a98a5c47b65e09e3eeb8f8219523daf0bbd055cd501cca8d55a54aa692"},
 ]
 
 [[package]]
 name = "haram-sum"
-version = "0.1.4"
+version = "0.1.5"
 requires_python = ">=3.9"
 summary = "Default template for PDM package"
 groups = ["default"]
 files = [
-    {file = "haram_sum-0.1.4-py3-none-any.whl", hash = "sha256:324f3e0f15cda24914f143b4204d97c48ec389af08a7bd9207994bd3d06a8ad7"},
-    {file = "haram_sum-0.1.4.tar.gz", hash = "sha256:ca8767dbd760f6907870185bfe46750b646fb1986dfcfbea7f6f293324616c71"},
+    {file = "haram_sum-0.1.5-py3-none-any.whl", hash = "sha256:6c580081f0d9aa2c45d0099af75ed30d564a6bfdea8a700c9b50e86f52920487"},
+    {file = "haram_sum-0.1.5.tar.gz", hash = "sha256:e99870e9fe8d930b6d8112aefb721087cec7ba01e7c87a1ba042b14c690ca9d2"},
 ]
 
 [[package]]
 name = "jeong-mul"
-version = "0.1.0"
+version = "0.1.1"
 requires_python = ">=3.9"
 summary = "Default template for PDM package"
 groups = ["default"]
 files = [
-    {file = "jeong_mul-0.1.0-py3-none-any.whl", hash = "sha256:87303c4bc0f19d2794f507611fb8d7ec8b033d9b89db8e283b19f8d3f818ed8e"},
-    {file = "jeong_mul-0.1.0.tar.gz", hash = "sha256:6438ca53ac258f749e7e4c91ebf3efa0de763031bebd4374652b32592d7c76e3"},
+    {file = "jeong_mul-0.1.1-py3-none-any.whl", hash = "sha256:c6e1a9dfb4152a4f175ec64e6070a9f8f143ebea48bb52493915d43aa1073901"},
+    {file = "jeong_mul-0.1.1.tar.gz", hash = "sha256:409f356780c3bda60749c046f36a057b1fbe3d589a468f7e20a1714ea33c6b03"},
 ]

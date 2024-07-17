@@ -16,8 +16,7 @@
 $ cl_cal_sum <숫자> <숫자>
 ```
 
-![image](https://github.com/user-attachments/assets/a9b8e47a-d9cf-45ea-b796-195e193988e6)
-
+![image](https://github.com/user-attachments/assets/855bcc81-57d9-45a3-9c85-cfa9fc87b7f6)
 
 - 빼기
 

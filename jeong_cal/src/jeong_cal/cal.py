@@ -7,33 +7,33 @@ def cl_sum():
     import sys
 
     if len(sys.argv) < 3:
-        print("Usage: script <a> <b>")
+        print("Usage: cl_cal_sum <a> <b>")
         sys.exit(1)
 
     a, b = int(sys.argv[1]), int(sys.argv[2])
     print(a, "+", b)
-    print(jeong_sum(a, b))
+    jeong_sum(a, b)
 
 
 def cl_sub():
     import sys
 
     if len(sys.argv) < 3:
-        print("Usage: script <a> <b>")
+        print("Usage: cl_cal_sub <a> <b>")
         sys.exit(1)
 
     a, b = int(sys.argv[1]), int(sys.argv[2])
     print(a, "-", b)
-    print(haram_sub(a, b))
+    haram_sub(a, b)
 
 
 def cl_mul():
     import sys
 
     if len(sys.argv) < 3:
-        print("Usage: script <a> <b>")
+        print("Usage: cl_cal_mul <a> <b>")
         sys.exit(1)
 
     a, b = int(sys.argv[1]), int(sys.argv[2])
     print(a, "*", b)
-    print(haram_mul(a, b))
+    haram_mul(a, b)

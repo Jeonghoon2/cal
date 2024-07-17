@@ -16,7 +16,8 @@
 $ cl_cal_sum <숫자> <숫자>
 ```
 
-![image](https://github.com/user-attachments/assets/2600cb15-68df-4895-b154-d680c6f2dc8c)
+![image](https://github.com/user-attachments/assets/a9b8e47a-d9cf-45ea-b796-195e193988e6)
+
 
 - 빼기
 
@@ -24,7 +25,8 @@ $ cl_cal_sum <숫자> <숫자>
 $ cl_cal_sub <숫자> <숫자>
 ```
 
-![image](https://github.com/user-attachments/assets/0e9c2c26-2e99-4566-a0c9-9e20cca1df04)
+![image](https://github.com/user-attachments/assets/2508af89-4a03-4b0d-b61e-71486c64694e)
+
 
 - 곱하기
 
@@ -32,7 +34,8 @@ $ cl_cal_sub <숫자> <숫자>
 $ cl_cal_mul <숫자> <숫자>
 ```
 
-![image](https://github.com/user-attachments/assets/152e4a6e-d2a5-4946-8e8f-51a90b42eef3)
+![image](https://github.com/user-attachments/assets/f273dbe5-0567-4055-a5ae-f25fd630b456)
+
 
 ### Version
 

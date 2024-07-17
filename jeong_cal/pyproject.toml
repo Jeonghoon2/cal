@@ -21,3 +21,7 @@ cl_cal_mul = 'jeong_cal.cal:cl_mul'
 
 [tool.pdm]
 distribution = true
+
+[project.urls]
+ 23 Homepage="https://github.com/Jeonghoon2/cal"
+ 24 Issues="https://github.com/Jeonghoon2/cal/issues"

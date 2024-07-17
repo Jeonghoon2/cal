@@ -5,7 +5,7 @@
 groups = ["default"]
 strategy = ["cross_platform", "inherit_metadata"]
 lock_version = "4.4.2"
-content_hash = "sha256:28805cf112151ccf985d25e6ea7ac09c493610a0787673278673241ba6f9add9"
+content_hash = "sha256:d092f35a4a6720712879c2fb8e0fb34962121b7beff3289800c89c215e10535b"
 
 [[package]]
 name = "haram-sub"
@@ -20,13 +20,13 @@ files = [
 
 [[package]]
 name = "haram-sum"
-version = "0.1.5"
+version = "0.1.6"
 requires_python = ">=3.9"
 summary = "Default template for PDM package"
 groups = ["default"]
 files = [
-    {file = "haram_sum-0.1.5-py3-none-any.whl", hash = "sha256:6c580081f0d9aa2c45d0099af75ed30d564a6bfdea8a700c9b50e86f52920487"},
-    {file = "haram_sum-0.1.5.tar.gz", hash = "sha256:e99870e9fe8d930b6d8112aefb721087cec7ba01e7c87a1ba042b14c690ca9d2"},
+    {file = "haram_sum-0.1.6-py3-none-any.whl", hash = "sha256:f7c2bb3d10fc65809852ec3ce015d18cd3821104b98a652798affadafa8868f6"},
+    {file = "haram_sum-0.1.6.tar.gz", hash = "sha256:4baabf12aab352d2a2b71eefcbe4ad23eeffc3e2d297e42fa9a41ed41004e2e4"},
 ]
 
 [[package]]
